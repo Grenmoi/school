@@ -7,6 +7,7 @@ app_description = "education"
 app_email = "easygo@easygo.ma"
 app_license = "MIT"
 
+
 # Includes in <head>
 # ------------------
 
