@@ -1,0 +1,7 @@
+## School
+
+education
+
+#### License
+
+MIT
