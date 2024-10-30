@@ -4,7 +4,7 @@ app_name = "school"
 app_title = "School"
 app_publisher = "easygo"
 app_description = "education"
-app_email = "easygo@easygo.ma"
+app_email = "info@easygo.ma"
 app_license = "MIT"
 
 
